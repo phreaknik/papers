@@ -1,0 +1,19 @@
+\begin{thebibliography}{1}
+
+\bibitem{buchwald2024frosty}
+Aaron Buchwald, Stephen Buttolph, Andrew Lewis-Pye, Patrick O'Grady, and Kevin
+  Sekniqi.
+\newblock Frosty: Bringing strong liveness guarantees to the snow family of
+  consensus protocols, 2024.
+
+\bibitem{naka}
+Satoshi Nakamoto.
+\newblock Bitcoin: A peer-to-peer electronic cash system, 2008.
+
+\bibitem{rocket}
+Team Rocket, Maofan Yin, Kevin Sekniqi, Robbert van Renesse, and Emin~Gün
+  Sirer.
+\newblock Scalable and probabilistic leaderless bft consensus through
+  metastability, 2020.
+
+\end{thebibliography}
