@@ -1,0 +1,108 @@
+\begin{thebibliography}{10}
+
+\bibitem{LazyLedger}
+Mustafa Al-Bassam.
+\newblock Lazyledger: A distributed data availability ledger with client-side smart contracts, 2019.
+
+\bibitem{albassam2019fraud}
+Mustafa Al-Bassam, Alberto Sonnino, and Vitalik Buterin.
+\newblock Fraud and data availability proofs: Maximising light client security and scaling blockchains with dishonest majorities, 2019.
+
+\bibitem{al2021cryptocurrency}
+Mohamed Al~Guindy.
+\newblock Cryptocurrency price volatility and investor attention, 2021.
+
+\bibitem{avail}
+avail.
+\newblock Avail: The data availability blockchain, 2020.
+
+\bibitem{astriaIntro}
+Josh Bowen.
+\newblock Introducing astria: The shared sequencer network, 2023.
+\newblock https://www.astria.org/blog/introducing-astria-the-shared-sequencer-network.
+
+\bibitem{buchwald2024frosty}
+Aaron Buchwald, Stephen Buttolph, Andrew Lewis-Pye, Patrick O'Grady, and Kevin Sekniqi.
+\newblock Frosty: Bringing strong liveness guarantees to the snow family of consensus protocols, 2024.
+
+\bibitem{buterin2014ethereum}
+V~Buterin.
+\newblock Ethereum: A next-generation smart contract and decentralized application platform, 2014.
+
+\bibitem{dudek}
+Luděk Dudek and Ivo Veřt{\'a}t.
+\newblock Multidimensional parity check codes with short block lengths.
+\newblock {\em 2016 24th Telecommunications Forum (TELFOR)}, pages 1--4, 2016.
+
+\bibitem{katsiampa2019empirical}
+Paraskevi Katsiampa.
+\newblock An empirical investigation of volatility dynamics in the cryptocurrency market.
+\newblock {\em Research in International Business and Finance}, 50:322--335, 2019.
+
+\bibitem{SolanaRestart}
+Mike Millard.
+\newblock Solana restarted after seven-hour outage caused by surge of transactions., 2022.
+\newblock https://www.theblock.co/linked/144639/solana-restarted-after-seven-hour-outage-caused-by-surge-of-transactions.
+
+\bibitem{naka}
+Satoshi Nakamoto.
+\newblock Bitcoin: A peer-to-peer electronic cash system, 2008.
+
+\bibitem{peterson1972error}
+W.W. Peterson and E.J. Weldon.
+\newblock {\em Error-correcting Codes}.
+\newblock Cambridge, MA, 1972.
+
+\bibitem{rocket}
+Team Rocket, Maofan Yin, Kevin Sekniqi, Robbert van Renesse, and Emin~Gün Sirer.
+\newblock Scalable and probabilistic leaderless bft consensus through metastability, 2020.
+
+\bibitem{saef2023regime}
+Danial Saef, Yuanrong Wang, and Tomaso Aste.
+\newblock Regime-based implied stochastic volatility model for crypto option pricing.
+\newblock In {\em Companion Proceedings of the ACM Web Conference 2023}, pages 1103--1110, 2023.
+
+\bibitem{saints}
+K.~Saints and C.~Heegard.
+\newblock Algebraic-geometric codes and multidimensional cyclic codes: a unified theory and algorithms for decoding using grobner bases.
+\newblock {\em IEEE Trans. Inf. Theor.}, 41(6-P1):1733–1751, sep 2006.
+
+\bibitem{schneider1990}
+Fred~B. Schneider.
+\newblock Implementing fault-tolerant services using the state machine approach: a tutorial.
+\newblock {\em ACM Comput. Surv.}, 22(4):299–319, December 1990.
+
+\bibitem{shea}
+John~M. Shea and Tan~F. Wong.
+\newblock Multidimensional codes, 2005.
+
+\bibitem{espressoIntro}
+Espresso Systems.
+\newblock The espresso sequencer, 2024.
+\newblock https://hackmd.io/@EspressoSystems/EspressoSequencer.
+
+\bibitem{CryptoKitties}
+Themerkle.
+\newblock Cryptokitties is clogging the ethereum network.
+\newblock https://themerkle.com/cryptokitties-is-clogging-the-ethereum-network/.
+
+\bibitem{wan2019evaluating}
+Luming Wan, David Eyers, and Haibo Zhang.
+\newblock Evaluating the impact of network latency on the safety of blockchain transactions.
+\newblock In {\em 2019 IEEE International Conference on Blockchain (Blockchain)}, pages 194--201. IEEE, 2019.
+
+\bibitem{reedsolomon}
+Stephen~B. Wicker and Vijay~K. Bhargava.
+\newblock Reed-solomon codes and their applications, 1999.
+
+\bibitem{wu}
+Jiantian Wu and Daniel~J. Costello.
+\newblock New multilevel codes over gf(q).
+\newblock {\em IEEE Trans. Inf. Theory}, 38:933--939, 1990.
+
+\bibitem{SolanaWhitepaper}
+Anatoly Yakovenko.
+\newblock Solana: A new architecture for a high performance blockchain v0.8.13, 2018.
+\newblock https://solana.com/solana-whitepaper.pdf.
+
+\end{thebibliography}
